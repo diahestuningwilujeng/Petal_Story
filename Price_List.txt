@@ -2,3 +2,6 @@ Fresh Flowers:
 
 1. Rose       Rp. 15.000
 2. Sunflower  Rp. 16.000
+3. Tulip      Rp. 20.000
+4. LiLy       Rp. 25.000
+5. Garbera    Rp. 17.000
